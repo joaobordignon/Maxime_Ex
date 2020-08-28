@@ -1,0 +1,7 @@
+E:\VSCode\C#\Aulas\Objetos\Objetos\Objetos\Maxime\Maxime\Maxime\obj\Debug\Maxime.csprojAssemblyReference.cache
+E:\VSCode\C#\Aulas\Objetos\Objetos\Objetos\Maxime\Maxime\Maxime\obj\Debug\Maxime.csproj.CoreCompileInputs.cache
+E:\VSCode\C#\Aulas\Objetos\Objetos\Objetos\Maxime\Maxime\Maxime\bin\Debug\Maxime.exe.config
+E:\VSCode\C#\Aulas\Objetos\Objetos\Objetos\Maxime\Maxime\Maxime\bin\Debug\Maxime.exe
+E:\VSCode\C#\Aulas\Objetos\Objetos\Objetos\Maxime\Maxime\Maxime\bin\Debug\Maxime.pdb
+E:\VSCode\C#\Aulas\Objetos\Objetos\Objetos\Maxime\Maxime\Maxime\obj\Debug\Maxime.exe
+E:\VSCode\C#\Aulas\Objetos\Objetos\Objetos\Maxime\Maxime\Maxime\obj\Debug\Maxime.pdb
